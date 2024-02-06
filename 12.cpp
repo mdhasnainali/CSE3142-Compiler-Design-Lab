@@ -84,6 +84,7 @@ void analyze_identifier(string str)
     parse(res);
 }
 
+
 bool integer(string str)
 {
     if(str.length() < 1) return false;

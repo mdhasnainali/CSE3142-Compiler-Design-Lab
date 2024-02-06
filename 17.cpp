@@ -66,6 +66,7 @@ void solve(string str)
     infToPostfix(tmp);
     cout<<endl;
     cout<<res<<endl;
+    cout<<tmp<<endl;
 
 }
 

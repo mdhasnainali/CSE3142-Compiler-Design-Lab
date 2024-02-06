@@ -8,7 +8,7 @@ bool binaryNum(string str);
 
 int main()
 {
-    string str = "0";
+    string str = "ch_INT";
 
     cin>>str;
 
